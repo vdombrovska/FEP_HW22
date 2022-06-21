@@ -1,5 +1,4 @@
-const set = () => {
+module.export= function set() {
     return base;
 };
 
-module.export(set);
